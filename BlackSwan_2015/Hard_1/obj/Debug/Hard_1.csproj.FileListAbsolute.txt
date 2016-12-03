@@ -1,0 +1,6 @@
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Hard_1\bin\Debug\Hard_1.exe.config
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Hard_1\bin\Debug\Hard_1.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Hard_1\bin\Debug\Hard_1.pdb
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Hard_1\obj\Debug\Hard_1.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Hard_1\obj\Debug\Hard_1.pdb
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Hard_1\obj\Debug\Hard_1.csprojResolveAssemblyReference.cache

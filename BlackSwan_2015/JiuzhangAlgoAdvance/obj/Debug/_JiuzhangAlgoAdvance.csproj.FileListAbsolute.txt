@@ -1,0 +1,6 @@
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\JiuzhangAlgoAdvance\bin\Debug\JiuzhangAlgoAdvance.exe.config
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\JiuzhangAlgoAdvance\bin\Debug\JiuzhangAlgoAdvance.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\JiuzhangAlgoAdvance\bin\Debug\JiuzhangAlgoAdvance.pdb
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\JiuzhangAlgoAdvance\obj\Debug\JiuzhangAlgoAdvance.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\JiuzhangAlgoAdvance\obj\Debug\JiuzhangAlgoAdvance.pdb
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\JiuzhangAlgoAdvance\obj\Debug\_JiuzhangAlgoAdvance.csprojResolveAssemblyReference.cache

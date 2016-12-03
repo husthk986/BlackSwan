@@ -1,0 +1,6 @@
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Basic_1\bin\Debug\Basic_1.exe.config
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Basic_1\bin\Debug\Basic_1.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Basic_1\bin\Debug\Basic_1.pdb
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Basic_1\obj\Debug\Basic_1.csprojResolveAssemblyReference.cache
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Basic_1\obj\Debug\Basic_1.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Basic_1\obj\Debug\Basic_1.pdb

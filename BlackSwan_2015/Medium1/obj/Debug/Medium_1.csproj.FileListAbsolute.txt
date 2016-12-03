@@ -1,0 +1,6 @@
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Medium1\bin\Debug\Medium1.exe.config
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Medium1\obj\Debug\Medium1.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Medium1\obj\Debug\Medium1.pdb
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Medium1\bin\Debug\Medium1.exe
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Medium1\bin\Debug\Medium1.pdb
+C:\Users\kunhua\Documents\GitHub\BlackSwan\BlackSwan_2015\Medium1\obj\Debug\Medium_1.csprojResolveAssemblyReference.cache
