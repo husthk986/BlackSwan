@@ -11,9 +11,13 @@ namespace Hard_1
     {
         public void DoIt()
         {
-            int[] nums1 = { 1, 3 };
-            int[] nums2 = { 2 };
-            Console.WriteLine("The result should be 2.0: " + FindMedianSortedArrays(nums1, nums2));
+            int[] nums1 = { 1, 2, 5, 6};
+            int[] nums2 = { 3, 4, 7, 8 };
+            //Console.WriteLine("The result should be 4.5: " + FindMedianSortedArrays(nums1, nums2));
+
+            nums1 = new[] { 1, 3 };
+            nums2 = new[] { 2 };
+            //Console.WriteLine("The result should be 2.0: " + FindMedianSortedArrays(nums1, nums2));
 
             nums1 = new[] { 1, 2 };
             nums2 = new[] { 3, 4 };
@@ -72,7 +76,7 @@ namespace Hard_1
                         max_left = Math.Max(nums1[aMiddle - 1], nums2[bMiddle - 1]);
 
                     break;
-                    
+
                 }
             }
 

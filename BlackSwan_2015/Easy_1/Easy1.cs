@@ -10,7 +10,7 @@ namespace Easy_1
     {
         static void Main(string[] args)
         {
-            //DoIt(new _1TwoSum());
+            DoIt(new _1TwoSum());
             //DoIt(new _6ZigzagConversion());
             //DoIt(new _7ReverseInteger());
             //DoIt(new _8StringToInteger());
@@ -20,7 +20,7 @@ namespace Easy_1
             //DoIt(new _19RemoveNthNode());
             //DoIt(new _20ValidParentheses());
             //DoIt(new _21MergeSortedLinkedList());
-            DoIt(new _24SwapNodesInPairs());
+            //DoIt(new _24SwapNodesInPairs());
 
             Console.WriteLine("done");
             Console.Read();
@@ -29,6 +29,11 @@ namespace Easy_1
         private static void DoIt(ILeetcode il)
         {
             il.DoIt();
+        }
+
+        private static void Test()
+        {
+            
         }
     }
 }

@@ -41,12 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Printers.cs" />
+    <Compile Include="ListNode.cs" />
     <Compile Include="_23MergedKSortedList.cs" />
     <Compile Include="ILeetCode.cs" />
     <Compile Include="Hard_1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_10RegularExpression.cs" />
+    <Compile Include="_30SubWConcAllWords.cs" />
+    <Compile Include="_25ReverseNodesInKGroup.cs" />
+    <Compile Include="_174DungeonGame.cs" />
+    <Compile Include="_425WordSquare.cs" />
     <Compile Include="_4MedianOfTwoSortedArrays.cs" />
+    <Compile Include="_56MergeInterval.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

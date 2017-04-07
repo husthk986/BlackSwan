@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Medium1
 {
-    class _2AddTwoNumbers : ILeetcode
+    internal class _2AddTwoNumbers : ILeetcode
     {
         public void DoIt()
         {
@@ -47,13 +47,14 @@ namespace Medium1
             if (l1 == null || l2 == null)
                 return null;
 
-            int currentValue = (l1.val + l2.val) % 10;
-            int currentCarry = (l1.val + l2.val) / 10;
+            int currentValue = (l1.val + l2.val)%10;
+            int currentCarry = (l1.val + l2.val)/10;
             ListNode node = new ListNode(currentValue);
 
             node.next = AddTwoNumbers(l1.next, l2.next, currentCarry);
             return node;
         }
+
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2, int carry)
         {
             int value1 = 0;
@@ -70,8 +71,8 @@ namespace Medium1
 
             if (l1 != null || l2 != null)
             {
-                int currentValue = (value1 + value2 + carry) % 10; //Key2: Add carry
-                int currentCarry = (value1 + value2 + carry) / 10;
+                int currentValue = (value1 + value2 + carry)%10; //Key2: Add carry
+                int currentCarry = (value1 + value2 + carry)/10;
                 ListNode node = new ListNode(currentValue);
 
                 node.next = AddTwoNumbers(l1 == null ? null : l1.next, l2 == null ? null : l2.next, currentCarry);
@@ -86,12 +87,5 @@ namespace Medium1
 
             return null;
         }
-    }
-
-    public class ListNode
-    {
-        public int val;
-        public ListNode next;
-        public ListNode(int x) { val = x; }
     }
 }
